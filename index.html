@@ -1,12 +1,103 @@
 ---
 layout: page
-title: Latest Posts
+title: Recent Builds
 excerpt: "A simple and clean responsive Jekyll theme for words and photos."
 search_omit: true
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+<br>
+build #{{ site.data.ss.build }} <a href="https://travis-ci.org/oglopss/tomato-ci"><img src="https://travis-ci.org/oglopss/tomato-ci.svg" /></a>
+<ul>
+{% assign sorted_ss = site.data.ss.files %}
+{% for f in sorted_ss %}
+<li>
+    <a href="{{ site.url }}/download/{{ f }}"> {{ f }}</a>
+</li>
 {% endfor %}
 </ul>
+<br>
+<br>
+
+<pre><code class="bash">
+$ make help
+n            Mini-USB - for oruter with 4MB flash and USB port - K24 only
+e            VPN - (standard plus VPN, extra utilities and NTFS support)
+c            BTgui-VPN - (Ext plus BT gui)
+d            Nocat-VPN - (BTgui plus VPN plus Nocat)
+g            Tor-VPN - (BTgui plus VPN plus TOR Project)
+t            BT-VPN - (BT plus VPN)
+b            Big-VPN - (Big plus VPN)
+o            Mega-VPN - (Mega plus VPN plus NOCAT minus NFS)
+z            MIPS Release 15F AIO (for routers +8MB flash)
+i            MiniIPv6 - (IPv6 with no USB support minus CIFS and RIPv1/2)
+j            MiniVPN - (VPN with no USB support minus CIFS and RIPv1/2)
+f            Mini - (no USB support minus CIFS and RIPv1/2)
+v            VPN (no usb) - (VPN with no USB support) / in K26 + IPv6 support
+m            Max (no usb) - (Max with no USB support) / in K26 + IPv6 support
+w            SD-VPN (no usb) - (VPN with SD-MOD and no USB support)
+r2e          MIPS Release 2 VPN
+r2c          MIPS Release 2 BTgui-VPN
+r2d          MIPS Release 2 Nocat-VPN
+r2g          MIPS Release 2 Tor-VPN
+r2t          MIPS Release 2 BT-VPN
+r2b          MIPS Release 2 Big-VPN
+r2o          MIPS Release 2 Mega-VPN (for routers +8MB flash)
+r2z          MIPS Release 2 AIO (for routers +8MB flash)
+r2v          MIPS Release 2 VPN (no usb)
+r2m          MIPS Release 2 Max (no usb)
+r2i          MIPS Release 2 MiniIPv6 (for 4MB flash)
+r2j          MIPS Release 2 MiniVPN (for 4MB flash)
+r2f          MIPS Release 2 Mini (for netgear)
+       Linksys E-Series with 4MB Flash(E1000v2/v2.1/E1200v1)
+e1000v2f     Linksys E1000v2-v2.1/Cisco M10v2 Mini
+e1000v2i     Linksys E1000v2-v2.1/Cisco M10v2 MiniIPv6
+e1200v1f     Linksys E1200v1 Mini
+e1200v1i     Linksys E1200v1 MiniIPv6
+       Linksys E-Series with 60k Nvram
+n60e         Linksys E-series build VPN
+n60c         Linksys E-series build BTGui-VPN
+n60d         Linksys E-series build BTGui-VPN plus Nocat
+n60g         Linksys E-series build BTGui-VPN plus TOR Project
+n60t         Linksys E-series build BT-VPN
+n60b         Linksys E-series build Big-VPN
+n60o         Linksys E-series build Mega-VPN
+n60z         Linksys E-series build AIO
+n60i         Linksys E-series build Mini for E2500
+n60j         Linksys E-series build MiniIPv6 for E2500
+n60v         Linksys E-series build IPv6-VPN for E2000
+n60m         Linksys E-series build Max for E2000
+       Linksys E-Series with 64k Nvram/8MB Flash(E800/E900/E1200v2/E1500)
+n64e         Linksys E-series(64k Nvram) build VPN
+n64c         Linksys E-series(64k Nvram) build BTGui-VPN
+n64d         Linksys E-series(64k Nvram) build BTGui-VPN plus Nocat
+n64g         Linksys E-series(64k Nvram) build BTGui-VPN plus TOR Project
+n64u         Linksys E-series(64k Nvram) build BT
+n64t         Linksys E-series(64k Nvram) build BT-VPN
+n64b         Linksys E-series(64k Nvram) build Big-VPN
+n64o         Linksys E-series(64k Nvram) build Mega-VPN
+n64v         Linksys E-series(64k Nvram) build IPv6-VPN
+n64m         Linksys E-series(64k Nvram) build Max
+       Routers with wl_high module
+rtn53        Asus RT-N53 with wl_high module (dualband support)
+e2500        Linksys E2500 with wl_high module (dualband support)
+e3200        Linksys E3200/E2500v3 with wl_high module (dualband support) / max 16MB
+n6           Tenda N6 with wl_high module (dualband support)
+n60          Tenda N60 with wl_high module (dualband support)
+       Netgear WNR3500L v2 builds (128MB Flash)
+v2e          Netgear WNR3500Lv2 build VPN
+v2z          Netgear WNR3500Lv2 build AIO
+
+r64e         RT-N66u build VPN
+r64z         RT-N66u build AIO
+
+..etc..      other build configs
+clean        -C router clean
+cleanimage   rm -rf image
+cleantools   clean btools, mksquashfs
+cleankernel  -C Linux distclean (but preserves .config)
+distclean    distclean of Linux & busybox (but preserve .configs)
+prepk        -C Linux oldconfig dep
+</code></pre>
+
+
+popular builds
