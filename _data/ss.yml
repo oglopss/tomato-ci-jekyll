@@ -12,3 +12,4 @@ files:
   - tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.trx
   - tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniVPN.trx
   - tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-Mini.trx
+  - tomato-K26-NVRAM32K-1.28.RT-N5x-CN-MIPSR2-140-Mini.trx
