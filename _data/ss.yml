@@ -16,3 +16,4 @@ files:
   - e1000v2f tomato-K26-NVRAM32K-1.28.RT-N5x-CN-MIPSR2-140-Mini.trx
   - e1000v2i tomato-K26-NVRAM32K-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.trx
   - e1200v1f tomato-K26-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Mini.trx
+  - e1200v1i tomato-K26-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.trx
