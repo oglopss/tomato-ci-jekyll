@@ -38,3 +38,4 @@ files:
   - n64o 
   - n64b tomato-K26USB-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Big-VPN.trx
   - n64v tomato-K26-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-IPv6-VPN.trx
+  - n64m tomato-K26-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Max.trx
