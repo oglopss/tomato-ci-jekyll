@@ -24,3 +24,4 @@ files:
   - n60t tomato-K26USB-NVRAM60K-1.28.RT-N5x-CN-MIPSR2-140-BT-VPN.trx
   - n60i tomato-K26-NVRAM60K-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.trx
   - n60o 
+  - n60b tomato-K26USB-NVRAM60K-1.28.RT-N5x-CN-MIPSR2-140-Big-VPN.trx
