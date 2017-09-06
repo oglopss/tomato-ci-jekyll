@@ -1,20 +1,3 @@
-build: 41
+build: 42
 files:
-  - e1200v1f tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Mini.bin
-  - e1000v2f tomato-e1000v2f.tar.gz
-  - n60i tomato-n60i.tar.gz
-  - r2j tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniVPN.trx
-  - rtn53 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-RT-N53.trx
-  - e2500 tomato-E2500-NVRAM60K-1.28.RT-N5x-CN-MIPSR2-140-Max.bin
-  - n64m tomato-n64m.tar.gz
-  - r2z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
-  - e3200 tomato-e3200.tar.gz
-  - n60 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-TendaN60.trx
-  - n6 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-TendaN6.trx
-  - v2e tomato-Netgear-3500Lv2-K26USB-1.28.RT-N5x-CN--140-VPN.chk
-  - r64e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN-64K.trx
-  - r2q3v tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-q3-VPN.trx
-  - r2q3m tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-q3-Max.trx
-  - v2z tomato-Netgear-3500Lv2-K26USB-1.28.RT-N5x-CN--140-AIO.chk
-  - hg32064k tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-hg320-Max-64K.trx
-  - r64z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO-64K.trx
+  - r2d tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Nocat-VPN.trx
