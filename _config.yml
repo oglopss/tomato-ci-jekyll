@@ -5,7 +5,7 @@ locale: en_US
 description: src-rt builds
 logo: kon.png
 search: true
-url: https://oglopss.github.io/advancedTomato-ci-jekyll/
+url: https://oglopss.github.io/tomato-ci-jekyll/
 
 # Jekyll configuration
 
