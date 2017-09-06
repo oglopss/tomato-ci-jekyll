@@ -34,3 +34,4 @@ files:
   - n64g tomato-n64g.tar.gz
   - n64u tomato-n64u.tar.gz
   - n64t tomato-n64t.tar.gz
+  - n64b tomato-n64b.tar.gz
