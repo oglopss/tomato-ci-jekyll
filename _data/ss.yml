@@ -2,3 +2,4 @@ build: 36
 files:
   - r2j tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniVPN.trx
   - r64e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN-64K.trx
+  - v2e tomato-Netgear-3500Lv2-K26USB-1.28.RT-N5x-CN--140-VPN.chk
