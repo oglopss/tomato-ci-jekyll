@@ -1,11 +1,3 @@
-build: 40
+build: 41
 files:
-  - e1000v2f tomato-e1000v2f.tar.gz
   - e1200v1f tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Mini.bin
-  - n60i tomato-n60i.tar.gz
-  - r2j tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniVPN.trx
-  - rtn53 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-RT-N53.trx
-  - n64m tomato-n64m.tar.gz
-  - e2500 tomato-E2500-NVRAM60K-1.28.RT-N5x-CN-MIPSR2-140-Max.bin
-  - e3200 tomato-e3200.tar.gz
-  - r2z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
