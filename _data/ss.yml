@@ -8,3 +8,4 @@ files:
   - r2z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
   - v2z tomato-wnr3500lv2.trx
   - r64z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO-64K.trx
+  - hg32064k tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-hg320-Max-64K.trx
