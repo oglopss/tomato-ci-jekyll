@@ -9,3 +9,4 @@ files:
   - n64m tomato-n64m.tar.gz
   - r2z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
   - e3200 tomato-e3200.tar.gz
+  - n60 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-TendaN60.trx
