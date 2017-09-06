@@ -5,3 +5,4 @@ files:
   - n60i tomato-n60i.tar.gz
   - r2j tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniVPN.trx
   - rtn53 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-RT-N53.trx
+  - n64m tomato-n64m.tar.gz
