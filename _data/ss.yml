@@ -2,3 +2,4 @@ build: 40
 files:
   - e1000v2f tomato-e1000v2f.tar.gz
   - e1200v1f tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Mini.bin
+  - n60i tomato-n60i.tar.gz
