@@ -1,7 +1,7 @@
 build: 43
 files:
-  - r2c 43.2 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BTgui-VPN.trx
-  - r2e 43.1 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN.trx
-  - r2g 43.4 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Tor-VPN.trx
-  - r2t 43.5 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BT-VPN.trx
-  - r2d 43.3 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Nocat-VPN.trx
+  - 0009 r2c tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BTgui-VPN.trx
+  - 0003 r2e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN.trx
+  - 0007 r2g tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Tor-VPN.trx
+  - 0005 r2t tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BT-VPN.trx
+  - 0001 r2d tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Nocat-VPN.trx
