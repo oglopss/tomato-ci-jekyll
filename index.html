@@ -10,9 +10,9 @@ build #{{ site.data.ss.build }} <a href="https://travis-ci.org/oglopss/tomato-ci
 <ul>
 {% assign sorted_ss = site.data.ss.files %}
 {% for f in sorted_ss %}
-{% assign words = f | split: ' ' %}
+{% assign words = f | split: ' ' | sort: words[1] %}
 <li>
-    {{ words[0] }} - <a href="{{ site.url }}/download/{{ words[1] }}">{{ words[1] }}</a>
+    {{ words[0] }} - <a href="{{ site.url }}/download/{{ words[2] }}">{{ words[2] }}</a>
 </li>
 {% endfor %}
 </ul>
