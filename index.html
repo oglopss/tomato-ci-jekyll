@@ -8,9 +8,9 @@ search_omit: true
 <br>
 build #{{ site.data.ss.build }} <a href="https://travis-ci.org/oglopss/tomato-ci"><img src="https://travis-ci.org/oglopss/tomato-ci.svg" /></a>
 <ul>
-{% assign sorted_ss = site.data.ss.files %}
+{% assign sorted_ss = site.data.ss.files | sort %}
 {% for f in sorted_ss %}
-{% assign words = f | split: ' ' | sort: words[1] %}
+{% assign words = f | split: ' ' %}
 <li>
     {{ words[0] }} - <a href="{{ site.url }}/download/{{ words[2] }}">{{ words[2] }}</a>
 </li>
