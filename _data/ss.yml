@@ -1,49 +1,8 @@
 build: 42
 files:
-  - r2d tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Nocat-VPN.trx
-  - r2e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN.trx
-  - r2g tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Tor-VPN.trx
-  - r2t tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BT-VPN.trx
-  - r2c tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BTgui-VPN.trx
-  - r2v tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-IPv6-VPN.trx
-  - r2b tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Big-VPN.trx
-  - r2m tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-Max.trx
-  - r2o tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Mega-VPN.trx
-  - r2i tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.trx
-  - r2j tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniVPN.trx
-  - e1000v2f tomato-e1000v2f.tar.gz
-  - r2f tomato-r2f.tar.gz
-  - e1000v2i tomato-e1000v2i.tar.gz
-  - r2z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
-  - e1200v1f tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Mini.bin
-  - e1200v1i tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.bin
-  - n60e tomato-n60e.tar.gz
-  - n60c tomato-n60c.tar.gz
-  - n60d tomato-n60d.tar.gz
-  - n60g tomato-n60g.tar.gz
-  - n60t tomato-n60t.tar.gz
-  - n60i tomato-n60i.tar.gz
-  - n60b tomato-n60b.tar.gz
-  - n60j tomato-n60j.tar.gz
-  - n60o tomato-n60o.tar.gz
-  - n60v tomato-n60v.tar.gz
-  - n60m tomato-n60m.tar.gz
-  - n64e tomato-n64e.tar.gz
-  - n64c tomato-n64c.tar.gz
-  - n64d tomato-n64d.tar.gz
-  - n64g tomato-n64g.tar.gz
-  - n64u tomato-n64u.tar.gz
-  - n64t tomato-n64t.tar.gz
-  - n64b tomato-n64b.tar.gz
-  - n64v tomato-n64v.tar.gz
-  - n64o tomato-n64o.tar.gz
-  - n64m tomato-n64m.tar.gz
-  - rtn53 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-RT-N53.trx
-  - e2500 tomato-E2500-NVRAM60K-1.28.RT-N5x-CN-MIPSR2-140-Max.bin
-  - n6 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-TendaN6.trx
-  - n60 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-TendaN60.trx
-  - e3200 tomato-e3200.tar.gz
-  - v2e tomato-Netgear-3500Lv2-K26USB-1.28.RT-N5x-CN--140-VPN.chk
-  - r64e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN-64K.trx
-  - r2q3m tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-q3-Max.trx
-  - r2q3v tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-q3-VPN.trx
+  - r2d 42.2 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Nocat-VPN.trx
+  - r2z 42.8 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
+  - e1200v1f 42.1 tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Mini.bin
+  - e1200v1i 42.5 tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.bin
+   - n64m 42.3 tomato-n64m.tar.gz
+  
