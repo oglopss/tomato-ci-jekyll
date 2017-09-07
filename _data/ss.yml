@@ -1,8 +1,3 @@
-build: 42
+build: 43
 files:
-  - r2d 42.2 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Nocat-VPN.trx
-  - r2z 42.8 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
-  - e1200v1f 42.1 tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Mini.bin
-  - e1200v1i 42.5 tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.bin
-   - n64m 42.3 tomato-n64m.tar.gz
-  
+  - r2c 43.2 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BTgui-VPN.trx
