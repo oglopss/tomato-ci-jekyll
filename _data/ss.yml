@@ -40,3 +40,4 @@ files:
   - 0039 n64m tomato-n64m.tar.gz
   - 0037 n64o tomato-n64o.tar.gz
   - 0040 rtn53 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-RT-N53.trx
+  - 0041 e2500 tomato-E2500-NVRAM60K-1.28.RT-N5x-CN-MIPSR2-140-Max.bin
