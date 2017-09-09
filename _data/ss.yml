@@ -13,3 +13,4 @@ files:
   - 0012 r2j tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniVPN.trx
   - 0013 r2f tomato-r2f.tar.gz
   - 0014 e1000v2f tomato-e1000v2f.tar.gz
+  - 0015 e1000v2i tomato-e1000v2i.tar.gz
