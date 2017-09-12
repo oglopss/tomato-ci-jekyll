@@ -2,3 +2,4 @@ build: 68
 files:
   - 0001 r2e 
   - 0002 r2c tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BTgui-VPN.trx
+  - 0003 r2d tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Nocat-VPN.trx
