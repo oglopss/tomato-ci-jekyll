@@ -1,15 +1,3 @@
-build: 66
+build: 67
 files:
-  - 0004 w1800re tomato-w1800re-BCMWL6.tar.gz
-  - 0002 ac66e tomato-ac66e-BCMWL6.tar.gz
-  - 0001 r2e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN.trx
-  - 0006 r6300e 
-  - 0008 wndr4500e tomato-Netgear-WNDR4500V1_RT-N5x-CN--140-VPN-64K.chk
-  - 0005 w1800rz tomato-w1800rz-BCMWL6.tar.gz
-  - 0003 ac66z tomato-ac66z-BCMWL6.tar.gz
-  - 0007 r6300z tomato-Netgear-R6300V1_RT-N5x-CN--140-AIO-64K.chk
-  - 0009 wndr4500z tomato-Netgear-WNDR4500V1_RT-N5x-CN--140-AIO-64K.chk
-  - 0010 wndr4500v2e tomato-Netgear-WNDR4500V2_RT-N5x-CN--140-VPN-64K.chk
-  - 0012 n80o tomato-n80o-BCMWL6.tar.gz
-  - 0006 r6300e tomato-Netgear-R6300V1_RT-N5x-CN--140-VPN-64K.chk
-  - 0011 wndr4500v2z tomato-Netgear-WNDR4500V2_RT-N5x-CN--140-AIO-64K.chk
+  - 0002 r2c tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BTgui-VPN.trx
