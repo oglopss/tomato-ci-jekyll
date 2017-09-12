@@ -5,3 +5,4 @@ files:
   - 0001 r2e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN.trx
   - 0006 r6300e 
   - 0008 wndr4500e tomato-Netgear-WNDR4500V1_RT-N5x-CN--140-VPN-64K.chk
+  - 0005 w1800rz tomato-w1800rz-BCMWL6.tar.gz
