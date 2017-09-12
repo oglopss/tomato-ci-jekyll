@@ -1,5 +1,3 @@
-build: 63
+build: 66
 files:
-  - 0001 r2j tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniVPN.trx
-  - 0004 w1800re tomato-w1800re.tar.gz
-  - 0002 ac66e tomato-ac66e.tar.gz
+  - 0004 w1800re tomato-w1800re-BCMWL6.tar.gz
