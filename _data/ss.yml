@@ -42,3 +42,4 @@ files:
   - 0041 e2500 tomato-E2500-NVRAM60K-1.28.RT-N5x-CN-MIPSR2-140-Max.bin
   - 0044 n60 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-TendaN60.trx
   - 0043 n6 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-TendaN6.trx
+  - 0025 n60z tomato-n60z.tar.gz
