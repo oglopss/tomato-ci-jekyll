@@ -19,3 +19,4 @@ files:
   - 0017 e1200v1i tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.bin
   - 0018 n60e tomato-n60e.tar.gz
   - 0020 n60d tomato-n60d.tar.gz
+  - 0021 n60g tomato-n60g.tar.gz
