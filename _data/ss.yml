@@ -54,3 +54,4 @@ files:
   - 0052 hg32064k tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-hg320-Max-64K.trx
   - 0055 ac66e tomato-ac66e-BCMWL6.tar.gz
   - 0057 w1800re tomato-w1800re-BCMWL6.tar.gz
+  - 0054 r64z tomato-r64z-BCMWL6.tar.gz
