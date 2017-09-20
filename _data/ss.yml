@@ -63,3 +63,4 @@ files:
   - 0060 r6300z tomato-Netgear-R6300V1_RT-N5x-CN--140-AIO-64K.chk
   - 0062 wndr4500z tomato-Netgear-WNDR4500V1_RT-N5x-CN--140-AIO-64K.chk
   - 0064 wndr4500v2z tomato-Netgear-WNDR4500V2_RT-N5x-CN--140-AIO-64K.chk
+  - 0065 n80o tomato-n80o-BCMWL6.tar.gz
