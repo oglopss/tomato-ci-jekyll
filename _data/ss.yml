@@ -2,3 +2,4 @@ build: 74
 files:
   - 0003 n60i tomato-n60i.tar.gz
   - 0004 n60j tomato-n60j.tar.gz
+  - 0002 n60c tomato-n60c.tar.gz
