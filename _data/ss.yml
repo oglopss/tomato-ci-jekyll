@@ -17,3 +17,4 @@ files:
   - 0008 r2z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
   - 0016 e1200v1f tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Mini.bin
   - 0017 e1200v1i tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.bin
+  - 0019 n60c tomato-n60c.tar.gz
