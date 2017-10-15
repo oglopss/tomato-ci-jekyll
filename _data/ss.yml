@@ -15,3 +15,4 @@ files:
   - 0014 e1000v2f tomato-e1000v2f.tar.gz
   - 0015 e1000v2i tomato-e1000v2i.tar.gz
   - 0016 e1200v1f tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-Mini.bin
+  - 0017 e1200v1i tomato-E1200v1-NVRAM64K-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.bin
