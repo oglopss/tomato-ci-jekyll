@@ -50,3 +50,4 @@ files:
   - 0051 r2q3v tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-q3-VPN.trx
   - 0054 r64e tomato-r64e-BCMWL6.tar.gz
   - 0052 hg320 tomato-K26USB-1.28.RT-N5x-CN-MIPSR1-140-hg320-Max.trx
+  - 0053 hg32064k tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-hg320-Max-64K.trx
