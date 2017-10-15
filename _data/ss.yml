@@ -64,3 +64,4 @@ files:
   - 0008 r2z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
   - 0055 r64z tomato-r64z-BCMWL6.tar.gz
   - 0061 r6300z tomato-Netgear-R6300V1_RT-N5x-CN--140-AIO-64K.chk
+  - 0066 n80o tomato-n80o-BCMWL6.tar.gz
