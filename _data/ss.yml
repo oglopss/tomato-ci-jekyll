@@ -4,3 +4,4 @@ files:
   - 0001 r2e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN.trx
   - 0005 r2t tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-BT-VPN.trx
   - 0004 r2g tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Tor-VPN.trx
+  - 0003 r2d tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Nocat-VPN.trx
