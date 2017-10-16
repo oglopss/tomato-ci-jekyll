@@ -10,3 +10,4 @@ files:
   - 0006 r2b tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Big-VPN.trx
   - 0011 r2i tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.trx
   - 0007 r2o tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Mega-VPN.trx
+  - 0013 r2f tomato-r2f.tar.gz
