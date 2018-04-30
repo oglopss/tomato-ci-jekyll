@@ -52,3 +52,4 @@ files:
   - 0052 hg32032k tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-hg320-Max.trx
   - 0047 v2z tomato-Netgear-3500Lv2-K26USB-1.28.RT-N5x-CN--140-AIO.chk
   - 0054 r64e tomato-r64e-BCMWL6.tar.gz
+  - 0049 r64z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO-64K.trx
